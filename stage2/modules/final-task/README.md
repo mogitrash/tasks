@@ -1,6 +1,6 @@
 ## Final Project
 
-### School's Preparation for Final Project Execution
+### School's Preparation for Final Project Executio
 
 1. Before the start of the final project, all the students who have not completed the last three assignments in a row are to be expelled as inactive.
 
